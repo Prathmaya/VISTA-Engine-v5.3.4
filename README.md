@@ -30,19 +30,15 @@ pip install customtkinter lightkurve astropy astroquery matplotlib numpy
 
 <table>
   <tr>
-    <td align="center"><b>AU Mic b (Primary Matrix)</b></td>
     <td align="center"><b>AU Mic b (Statistical Morphology)</b></td>
   </tr>
   <tr>
-    <td><img src="AU Mic b 1.png" width="100%"></td>
     <td><img src="AU Mic b 2.png" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><b>TOI-143 b (Primary Matrix)</b></td>
     <td align="center"><b>TOI-143 b (Statistical Morphology)</b></td>
   </tr>
   <tr>
-    <td><img src="TOI-143 b 1png" width="100%"></td>
     <td><img src="TOI-143 b 2.png" width="100%"></td>
   </tr>
 </table>
