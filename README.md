@@ -1,7 +1,7 @@
 # ExoTransit-Vetting-Pipeline
 An automated exoplanet transit detection pipeline built in Python. Features adaptive stellar variability filtering, Box Least Squares (BLS) periodogram spectral sweeps, and interactive multi-panel morphology models using Kepler and TESS space telescope telemetry
 
-# ExoTransit Engine v5.3.2
+# ExoTransit Engine v5.3.3
 
 A lightweight, multi-threaded exoplanet discovery engine built in Python. The application automatically streams light curve telemetry from NASA's MAST archive (TESS/Kepler Kepler missions) to process, filter, and model planetary transit profiles.
 
@@ -9,6 +9,7 @@ A lightweight, multi-threaded exoplanet discovery engine built in Python. The ap
 * Stellar Variability Filter: Adaptive flattening window to isolate transit signals from active starspot rotations.
 * BLS Periodogram Sweep: Box Least Squares algorithm spectral power analysis to detect exact orbital intervals.
 * Morphology Sub-Models: Interactive folding maps, high-resolution micro-scale transit geometry fits, and flux probability density histograms.
+* Import and Export: The application features options to import and export planet data from .csv files and export .csv, .txt and images of the graphs.
 
 # Installation
 1. Python 
